@@ -4,6 +4,8 @@
 
 DanTiao插件附属
 
+[必须前置DanTiao文档](https://1392847363.gitbook.io/dantiao)
+
 [使用文档](https://ricedoc.handyplus.cn/wiki/Fair-DanTiao)
 
 ### 指令
