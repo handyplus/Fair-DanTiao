@@ -1,0 +1,21 @@
+name: Fair-DanTiao
+main: cn.handyplus.fair.FairDanTiao
+version: 1.0.7
+author: handy
+api-version: 1.13
+description: 单挑附属
+depend: [ Dantiao ]
+website: https://ricedoc.handyplus.cn/wiki/Fair-DanTiao
+softdepend: [ PlayerTitle,PlayerRace,PlayerGuild ]
+commands:
+  fair:
+    description: 单挑附属
+    aliases: [ fair ]
+permissions:
+  fair.*:
+    description: 公平单挑
+    children:
+      fair.reload: true
+  fair.reload:
+    description: 重新加载配置
+    default: op
