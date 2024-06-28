@@ -1,5 +1,5 @@
 ![适用核心](https://img.shields.io/badge/适用核心-Spigot-blue)
-![适用版本](https://img.shields.io/badge/适用版本-1.7.x--1.20.x-blue)
+![适用版本](https://img.shields.io/badge/适用版本-1.7.x--1.21.x-blue)
 ![是否付费](https://img.shields.io/badge/是否付费-否-blue)
 
 ### 一、简介
